@@ -1,1 +1,3 @@
-# Ecommerce-Dashboard-
+The React dashboard is a modern and visually appealing web application interface designed to provide users with a comprehensive overview and control of various data and functionalities. Built using the popular React JavaScript library, this dashboard offers a responsive and interactive user experience. It comes with a lot of features such as calenders, graphs, kanbans, notepad and pie charts.
+
+Overall, the React dashboard combines the power of React's component-driven approach, flexibility, and interactivity to create a visually appealing and user-friendly interface for data monitoring and control.
